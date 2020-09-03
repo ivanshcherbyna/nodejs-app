@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app-youtube",
+  "version": "1.0.0",
+  "description": "Node JS App for youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "node"
+  ],
+  "author": "ishcherbyna <vanjok137@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

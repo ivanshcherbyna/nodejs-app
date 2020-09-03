@@ -1,0 +1,13 @@
+*.xml
+.git/*
+.idea/*
+.vs-code/*
+node_modules/*
+#public/*
+package-lock.json
+yarn.lock
+yarn-error.log
+build.tar
+build/*
+.DS_Store
+/webpack.dev.js
